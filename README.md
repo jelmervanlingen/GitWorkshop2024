@@ -1,2 +1,2 @@
 # GitWorkshop2024
-test
+dit is een test
